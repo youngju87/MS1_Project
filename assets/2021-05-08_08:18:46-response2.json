@@ -1,0 +1,937 @@
+{
+    "address1": {},
+    "L4Z 3N4": {
+        "objects": [
+            {
+                "name": "Mississauga\u2014Malton",
+                "external_id": "35062",
+                "url": "/boundaries/federal-electoral-districts/35062/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Mississauga\u2014Malton",
+                "external_id": "64",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2015/mississauga-malton/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2015/"
+                }
+            },
+            {
+                "name": "Mississauga\u2014Brampton South",
+                "external_id": "47",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2005/mississauga-brampton-south/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2005/"
+                }
+            },
+            {
+                "name": "Conseil scolaire Viamonde",
+                "external_id": "58",
+                "url": "/boundaries/ontario-french-public-school-board-boundaries/conseil-scolaire-viamonde/",
+                "boundary_set_name": "Ontario French Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Dufferin-Peel Catholic DSB",
+                "external_id": "43",
+                "url": "/boundaries/ontario-english-catholic-school-board-boundaries/dufferin-peel-catholic-dsb/",
+                "boundary_set_name": "Ontario English Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "CS catholique MonAvenir",
+                "external_id": "64",
+                "url": "/boundaries/ontario-french-catholic-school-board-boundaries/cs-catholique-monavenir/",
+                "boundary_set_name": "Ontario French Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Peel DSB",
+                "external_id": "19",
+                "url": "/boundaries/ontario-english-public-school-board-boundaries/peel-dsb/",
+                "boundary_set_name": "Ontario English Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Ward 4",
+                "external_id": "4",
+                "url": "/boundaries/mississauga-wards/ward-4/",
+                "boundary_set_name": "Mississauga ward",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/mississauga-wards/"
+                }
+            },
+            {
+                "name": "Mississauga\u2014Brampton South",
+                "external_id": "35047",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/35047/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Peel",
+                "external_id": "3521",
+                "url": "/boundaries/census-divisions/3521/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Mississauga",
+                "external_id": "3521005",
+                "url": "/boundaries/census-subdivisions/3521005/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 11,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=43.6045611,-79.643807",
+                "shapes_url": "/boundaries/shape?contains=43.6045611,-79.643807",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=43.6045611,-79.643807"
+            }
+        }
+    },
+    "G9T 3P3": {
+        "objects": [
+            {
+                "name": "Saint-Maurice\u2014Champlain",
+                "external_id": "24070",
+                "url": "/boundaries/federal-electoral-districts/24070/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "de la Rivi\u00e8re",
+                "external_id": "1",
+                "url": "/boundaries/shawinigan-districts/de-la-riviere/",
+                "boundary_set_name": "Shawinigan district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/shawinigan-districts/"
+                }
+            },
+            {
+                "name": "Laviolette-Saint-Maurice",
+                "external_id": "670",
+                "url": "/boundaries/quebec-electoral-districts-2017/laviolette-saint-maurice/",
+                "boundary_set_name": "Quebec electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/quebec-electoral-districts-2017/"
+                }
+            },
+            {
+                "name": "Laviolette",
+                "external_id": "583",
+                "url": "/boundaries/quebec-electoral-districts-2011/laviolette/",
+                "boundary_set_name": "Quebec electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/quebec-electoral-districts-2011/"
+                }
+            },
+            {
+                "name": "Saint-Maurice\u2014Champlain",
+                "external_id": "24068",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/24068/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Shawinigan",
+                "external_id": "2436",
+                "url": "/boundaries/census-divisions/2436/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Shawinigan",
+                "external_id": "2436033",
+                "url": "/boundaries/census-subdivisions/2436033/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 7,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=46.618483,-72.733181",
+                "shapes_url": "/boundaries/shape?contains=46.618483,-72.733181",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=46.618483,-72.733181"
+            }
+        }
+    },
+    "K1B 4L8": {
+        "objects": [
+            {
+                "name": "Ottawa South",
+                "external_id": "35064",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/35064/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Ottawa South",
+                "external_id": "35077",
+                "url": "/boundaries/federal-electoral-districts/35077/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Ottawa South",
+                "external_id": "79",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2015/ottawa-south/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2015/"
+                }
+            },
+            {
+                "name": "Alta Vista",
+                "external_id": "18",
+                "url": "/boundaries/ottawa-wards/alta-vista/",
+                "boundary_set_name": "Ottawa ward",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ottawa-wards/"
+                }
+            },
+            {
+                "name": "Ottawa South",
+                "external_id": "64",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2005/ottawa-south/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2005/"
+                }
+            },
+            {
+                "name": "Conseil des \u00e9coles publiques de l'Est de l'Ontari",
+                "external_id": "59",
+                "url": "/boundaries/ontario-french-public-school-board-boundaries/conseil-des-ecoles-publiques-de-lest-de-lontari/",
+                "boundary_set_name": "Ontario French Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Ottawa-Carleton Catholic DSB",
+                "external_id": "53",
+                "url": "/boundaries/ontario-english-catholic-school-board-boundaries/ottawa-carleton-catholic-dsb/",
+                "boundary_set_name": "Ontario English Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "CSD catholique du Centre-Est de l'Ontario",
+                "external_id": "66",
+                "url": "/boundaries/ontario-french-catholic-school-board-boundaries/csd-catholique-du-centre-est-de-lontario/",
+                "boundary_set_name": "Ontario French Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Ottawa-Carleton DSB",
+                "external_id": "25",
+                "url": "/boundaries/ontario-english-public-school-board-boundaries/ottawa-carleton-dsb/",
+                "boundary_set_name": "Ontario English Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Ottawa",
+                "external_id": "3506",
+                "url": "/boundaries/census-divisions/3506/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Ottawa",
+                "external_id": "3506008",
+                "url": "/boundaries/census-subdivisions/3506008/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 11,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=45.3975951,-75.6160238",
+                "shapes_url": "/boundaries/shape?contains=45.3975951,-75.6160238",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=45.3975951,-75.6160238"
+            }
+        }
+    },
+    "V3V 3N9": {
+        "objects": [
+            {
+                "name": "Surrey-Whalley",
+                "external_id": "SWH",
+                "url": "/boundaries/british-columbia-electoral-districts-2008-redistribution/surrey-whalley/",
+                "boundary_set_name": "British Columbia electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/british-columbia-electoral-districts-2008-redistribution/"
+                }
+            },
+            {
+                "name": "Surrey Centre",
+                "external_id": "59032",
+                "url": "/boundaries/federal-electoral-districts/59032/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Surrey North",
+                "external_id": "59028",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/59028/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Surrey-Whalley",
+                "external_id": "SWH",
+                "url": "/boundaries/british-columbia-electoral-districts-2015-redistribution/surrey-whalley/",
+                "boundary_set_name": "British Columbia electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/british-columbia-electoral-districts-2015-redistribution/"
+                }
+            },
+            {
+                "name": "Greater Vancouver",
+                "external_id": "5915",
+                "url": "/boundaries/census-divisions/5915/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Surrey",
+                "external_id": "5915004",
+                "url": "/boundaries/census-subdivisions/5915004/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 6,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=49.209612,-122.8720384",
+                "shapes_url": "/boundaries/shape?contains=49.209612,-122.8720384",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=49.209612,-122.8720384"
+            }
+        }
+    },
+    "T0B 0H0": {
+        "objects": [
+            {
+                "name": "Camrose",
+                "external_id": "53",
+                "url": "/boundaries/alberta-electoral-districts-2017/camrose/",
+                "boundary_set_name": "Alberta electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/alberta-electoral-districts-2017/"
+                }
+            },
+            {
+                "name": "Crowfoot",
+                "external_id": "48010",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/48010/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Battle River\u2014Crowfoot",
+                "external_id": "48002",
+                "url": "/boundaries/federal-electoral-districts/48002/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Battle River-Wainwright",
+                "external_id": "51",
+                "url": "/boundaries/alberta-electoral-districts-2010/battle-river-wainwright/",
+                "boundary_set_name": "Alberta electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/alberta-electoral-districts-2010/"
+                }
+            },
+            {
+                "name": "Division No. 10",
+                "external_id": "4810",
+                "url": "/boundaries/census-divisions/4810/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Bashaw",
+                "external_id": "4810002",
+                "url": "/boundaries/census-subdivisions/4810002/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 6,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=52.58382289999999,-112.9702464",
+                "shapes_url": "/boundaries/shape?contains=52.58382289999999,-112.9702464",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=52.58382289999999,-112.9702464"
+            }
+        }
+    },
+    "T0L 0H0": {
+        "objects": [
+            {
+                "name": "Livingstone-Macleod",
+                "external_id": "73",
+                "url": "/boundaries/alberta-electoral-districts-2017/livingstone-macleod/",
+                "boundary_set_name": "Alberta electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/alberta-electoral-districts-2017/"
+                }
+            },
+            {
+                "name": "Foothills",
+                "external_id": "48022",
+                "url": "/boundaries/federal-electoral-districts/48022/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Macleod",
+                "external_id": "48020",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/48020/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Livingstone-Macleod",
+                "external_id": "71",
+                "url": "/boundaries/alberta-electoral-districts-2010/livingstone-macleod/",
+                "boundary_set_name": "Alberta electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/alberta-electoral-districts-2010/"
+                }
+            },
+            {
+                "name": "Division No.  6",
+                "external_id": "4806",
+                "url": "/boundaries/census-divisions/4806/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Foothills No. 31",
+                "external_id": "4806001",
+                "url": "/boundaries/census-subdivisions/4806001/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 6,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=50.6493806,-114.1518311",
+                "shapes_url": "/boundaries/shape?contains=50.6493806,-114.1518311",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=50.6493806,-114.1518311"
+            }
+        }
+    },
+    "E3A 4Z9": {
+        "objects": [
+            {
+                "name": "Fredericton",
+                "external_id": "13003",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/13003/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Fredericton",
+                "external_id": "13003",
+                "url": "/boundaries/federal-electoral-districts/13003/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Fredericton North",
+                "external_id": "41",
+                "url": "/boundaries/new-brunswick-electoral-districts/fredericton-north/",
+                "boundary_set_name": "New Brunswick electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/new-brunswick-electoral-districts/"
+                }
+            },
+            {
+                "name": "Ward 3",
+                "external_id": "3",
+                "url": "/boundaries/fredericton-wards/ward-3/",
+                "boundary_set_name": "Fredericton ward",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/fredericton-wards/"
+                }
+            },
+            {
+                "name": "Fredericton-Nashwaaksis",
+                "external_id": "42",
+                "url": "/boundaries/new-brunswick-electoral-districts-2006/fredericton-nashwaaksis/",
+                "boundary_set_name": "New Brunswick electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/new-brunswick-electoral-districts-2006/"
+                }
+            },
+            {
+                "name": "York",
+                "external_id": "1310",
+                "url": "/boundaries/census-divisions/1310/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Fredericton",
+                "external_id": "1310032",
+                "url": "/boundaries/census-subdivisions/1310032/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 7,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=45.9804875,-66.6452987",
+                "shapes_url": "/boundaries/shape?contains=45.9804875,-66.6452987",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=45.9804875,-66.6452987"
+            }
+        }
+    },
+    "L2V 4M5": {
+        "objects": [
+            {
+                "name": "Niagara Centre",
+                "external_id": "35066",
+                "url": "/boundaries/federal-electoral-districts/35066/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Niagara Centre",
+                "external_id": "68",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2015/niagara-centre/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2015/"
+                }
+            },
+            {
+                "name": "Welland",
+                "external_id": "98",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2005/welland/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2005/"
+                }
+            },
+            {
+                "name": "Conseil scolaire Viamonde",
+                "external_id": "58",
+                "url": "/boundaries/ontario-french-public-school-board-boundaries/conseil-scolaire-viamonde/",
+                "boundary_set_name": "Ontario French Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Niagara Catholic DSB",
+                "external_id": "50",
+                "url": "/boundaries/ontario-english-catholic-school-board-boundaries/niagara-catholic-dsb/",
+                "boundary_set_name": "Ontario English Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "CS catholique MonAvenir",
+                "external_id": "64",
+                "url": "/boundaries/ontario-french-catholic-school-board-boundaries/cs-catholique-monavenir/",
+                "boundary_set_name": "Ontario French Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "DSB of Niagara",
+                "external_id": "22",
+                "url": "/boundaries/ontario-english-public-school-board-boundaries/dsb-of-niagara/",
+                "boundary_set_name": "Ontario English Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Welland",
+                "external_id": "35097",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/35097/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Niagara",
+                "external_id": "3526",
+                "url": "/boundaries/census-divisions/3526/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Thorold",
+                "external_id": "3526037",
+                "url": "/boundaries/census-subdivisions/3526037/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 10,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=43.1088402,-79.22202890000001",
+                "shapes_url": "/boundaries/shape?contains=43.1088402,-79.22202890000001",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=43.1088402,-79.22202890000001"
+            }
+        }
+    },
+    "K0G 1M0": {
+        "objects": [
+            {
+                "name": "Lanark\u2014Frontenac\u2014Lennox and Addington",
+                "external_id": "35040",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/35040/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Lanark\u2014Frontenac\u2014Kingston",
+                "external_id": "35049",
+                "url": "/boundaries/federal-electoral-districts/35049/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Lanark\u2014Frontenac\u2014Kingston",
+                "external_id": "51",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2015/lanark-frontenac-kingston/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2015/"
+                }
+            },
+            {
+                "name": "Lanark\u2014Frontenac\u2014Lennox and Addington",
+                "external_id": "41",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2005/lanark-frontenac-lennox-and-addington/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2005/"
+                }
+            },
+            {
+                "name": "Conseil des \u00e9coles publiques de l'Est de l'Ontari",
+                "external_id": "59",
+                "url": "/boundaries/ontario-french-public-school-board-boundaries/conseil-des-ecoles-publiques-de-lest-de-lontari/",
+                "boundary_set_name": "Ontario French Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Catholic DSB of Eastern Ontario",
+                "external_id": "52",
+                "url": "/boundaries/ontario-english-catholic-school-board-boundaries/catholic-dsb-of-eastern-ontario/",
+                "boundary_set_name": "Ontario English Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "CSD catholique du Centre-Est de l'Ontario",
+                "external_id": "66",
+                "url": "/boundaries/ontario-french-catholic-school-board-boundaries/csd-catholique-du-centre-est-de-lontario/",
+                "boundary_set_name": "Ontario French Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Upper Canada DSB",
+                "external_id": "26",
+                "url": "/boundaries/ontario-english-public-school-board-boundaries/upper-canada-dsb/",
+                "boundary_set_name": "Ontario English Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Lanark",
+                "external_id": "3509",
+                "url": "/boundaries/census-divisions/3509/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Lanark Highlands",
+                "external_id": "3509039",
+                "url": "/boundaries/census-subdivisions/3509039/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 10,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=44.9877113,-76.5815755",
+                "shapes_url": "/boundaries/shape?contains=44.9877113,-76.5815755",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=44.9877113,-76.5815755"
+            }
+        }
+    },
+    "M1T 1M9": {
+        "objects": [
+            {
+                "name": "Scarborough\u2014Agincourt",
+                "external_id": "35093",
+                "url": "/boundaries/federal-electoral-districts/35093/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts/"
+                }
+            },
+            {
+                "name": "Scarborough\u2014Agincourt",
+                "external_id": "35080",
+                "url": "/boundaries/federal-electoral-districts-2003-representation-order/35080/",
+                "boundary_set_name": "Federal electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/federal-electoral-districts-2003-representation-order/"
+                }
+            },
+            {
+                "name": "Scarborough\u2014Agincourt",
+                "external_id": "93",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2015/scarborough-agincourt/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2015/"
+                }
+            },
+            {
+                "name": "Scarborough\u2014Agincourt",
+                "external_id": "80",
+                "url": "/boundaries/ontario-electoral-districts-representation-act-2005/scarborough-agincourt/",
+                "boundary_set_name": "Ontario electoral district",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-electoral-districts-representation-act-2005/"
+                }
+            },
+            {
+                "name": "Scarborough-Agincourt (40)",
+                "external_id": "40",
+                "url": "/boundaries/toronto-wards-2010/scarborough-agincourt-40/",
+                "boundary_set_name": "Toronto ward",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/toronto-wards-2010/"
+                }
+            },
+            {
+                "name": "Scarborough-Agincourt",
+                "external_id": "22",
+                "url": "/boundaries/toronto-wards-2018/scarborough-agincourt/",
+                "boundary_set_name": "Toronto ward",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/toronto-wards-2018/"
+                }
+            },
+            {
+                "name": "Conseil scolaire Viamonde",
+                "external_id": "58",
+                "url": "/boundaries/ontario-french-public-school-board-boundaries/conseil-scolaire-viamonde/",
+                "boundary_set_name": "Ontario French Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Toronto Catholic DSB",
+                "external_id": "40",
+                "url": "/boundaries/ontario-english-catholic-school-board-boundaries/toronto-catholic-dsb/",
+                "boundary_set_name": "Ontario English Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "CS catholique MonAvenir",
+                "external_id": "64",
+                "url": "/boundaries/ontario-french-catholic-school-board-boundaries/cs-catholique-monavenir/",
+                "boundary_set_name": "Ontario French Catholic School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-french-catholic-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Toronto DSB",
+                "external_id": "12",
+                "url": "/boundaries/ontario-english-public-school-board-boundaries/toronto-dsb/",
+                "boundary_set_name": "Ontario English Public School Board boundary",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/ontario-english-public-school-board-boundaries/"
+                }
+            },
+            {
+                "name": "Toronto",
+                "external_id": "3520",
+                "url": "/boundaries/census-divisions/3520/",
+                "boundary_set_name": "Census division",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-divisions/"
+                }
+            },
+            {
+                "name": "Toronto",
+                "external_id": "3520005",
+                "url": "/boundaries/census-subdivisions/3520005/",
+                "boundary_set_name": "Census subdivision",
+                "related": {
+                    "boundary_set_url": "/boundary-sets/census-subdivisions/"
+                }
+            }
+        ],
+        "meta": {
+            "next": null,
+            "total_count": 12,
+            "previous": null,
+            "limit": 20,
+            "offset": 0,
+            "related": {
+                "centroids_url": "/boundaries/centroid?contains=43.7744818,-79.3131065",
+                "shapes_url": "/boundaries/shape?contains=43.7744818,-79.3131065",
+                "simple_shapes_url": "/boundaries/simple_shape?contains=43.7744818,-79.3131065"
+            }
+        }
+    }
+}
